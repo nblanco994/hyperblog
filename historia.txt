@@ -8,6 +8,8 @@ Pero si voy a crear una nueva rama para hacerlo
 
 Master 1
 
+Master 2
+
 Tengo 26 años y nací en Venezuela. Pero ahora solo contrinuyo a este proyecto estoy haciendo una simulacion
 
 Mañana nos enfocaremos en su vida laboral.
